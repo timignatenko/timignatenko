@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Tim+Ignatenko;Full-stack+developer;Open-source+enthusiast&center=true&size=30&color=00aaff&vCenter=true&width=500">
 </h1>
 <p align="center">
-  <a href="https://leetcode.com/u/tim-fullstack-programmer" target="_blank">
+  <a href="https://leetcode.com/u/timignatenko/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
